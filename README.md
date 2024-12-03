@@ -1,5 +1,8 @@
 # HTTP Server
 
+**Authored by**: Melvin Loh 
+for *Computer Networks Assignment 1*
+
 A HTTP-like server that provides key-value store services, written in C++.
 
 The server consists of two components. 
